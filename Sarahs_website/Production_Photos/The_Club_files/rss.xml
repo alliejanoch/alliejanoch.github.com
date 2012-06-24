@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>The Club</title>
+    <link>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Production_Photos/The_Club.html</link>
+    <description>The Club</description>
+    <item>
+      <link>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Production_Photos/The_Club.html#0</link>
+      <guid isPermaLink="false">c0980fb9-3cc3-4ba8-a516-a4d575342ae7</guid>
+      <enclosure url="file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Production_Photos/The_Club_files/Media/club%20poster/club%20poster.jpg" length="57492" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Production_Photos/The_Club_files/Media/club%20poster/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Production_Photos/The_Club_files/Media/club%20poster/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;/&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <link>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Production_Photos/The_Club.html#1</link>
+      <guid isPermaLink="false">c6fa6147-ba06-4635-a78f-aa46c8843a6a</guid>
+      <enclosure url="file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Production_Photos/The_Club_files/Media/club%203/club%203.jpg" length="55178" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Production_Photos/The_Club_files/Media/club%203/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Production_Photos/The_Club_files/Media/club%203/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;/&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <link>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Production_Photos/The_Club.html#2</link>
+      <guid isPermaLink="false">9b5dda99-45e2-4a26-844c-bd4eba5d9ca7</guid>
+      <enclosure url="file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Production_Photos/The_Club_files/Media/club%202/club%202.jpg" length="58318" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Production_Photos/The_Club_files/Media/club%202/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Production_Photos/The_Club_files/Media/club%202/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;/&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <link>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Production_Photos/The_Club.html#3</link>
+      <guid isPermaLink="false">3c9270b7-d80a-4f80-952e-a32f04c4101a</guid>
+      <enclosure url="file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Production_Photos/The_Club_files/Media/club%201/club%201.jpg" length="59795" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Production_Photos/The_Club_files/Media/club%201/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Production_Photos/The_Club_files/Media/club%201/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;/&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>
