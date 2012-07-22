@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Recordings</title>
+    <link>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Recordings</link>
+    <description>Audio recordings by Sarah Hoch.</description>
+    <item>
+      <title>Maybe This Time</title>
+      <link>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Recordings/Entries/2012/7/22_Maybe_This_Time.html</link>
+      <guid isPermaLink="false">0b4e3bc9-40b2-452c-b464-a36b0368c500</guid>
+      <pubDate>Sun, 22 Jul 2012 16:22:18 -0700</pubDate>
+      <description>From the musical Cabaret.</description>
+      <iweb:image href="Media/Cabaret.jpg"></iweb:image>
+      <iweb:badge type="audio"></iweb:badge>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Recordings/Entries/2012/7/22_Maybe_This_Time.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Stranger to the Rain</title>
+      <link>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Recordings/Entries/2012/7/22_Stranger_to_the_Rain.html</link>
+      <guid isPermaLink="false">da14f12f-41c6-414a-ade9-e556954756d3</guid>
+      <pubDate>Sun, 22 Jul 2012 16:20:01 -0700</pubDate>
+      <description>From the musical Children of Eden</description>
+      <iweb:image href="Media/t_Children%20of%20Eden.jpg"></iweb:image>
+      <iweb:badge type="audio"></iweb:badge>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Recordings/Entries/2012/7/22_Stranger_to_the_Rain.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Dyin' Ain't So Bad</title>
+      <link>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Recordings/Entries/2012/7/22_Dyin_Aint_So_Bad.html</link>
+      <guid isPermaLink="false">884a725c-1b9c-469c-98f1-225378b11d39</guid>
+      <pubDate>Sun, 22 Jul 2012 16:15:57 -0700</pubDate>
+      <description>From the musical Bonnie &amp;amp; Clyde</description>
+      <iweb:image href="Media/Bonnie%26Clyde.jpg"></iweb:image>
+      <iweb:badge type="audio"></iweb:badge>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Recordings/Entries/2012/7/22_Dyin_Aint_So_Bad.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Recordings</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

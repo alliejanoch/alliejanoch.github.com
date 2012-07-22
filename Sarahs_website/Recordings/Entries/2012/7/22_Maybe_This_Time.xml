@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="57ED99DB-85CC-42A4-BB00-AF66B0A540C3">
+  <lastEdited clientType="local-build-20120722" date="2012-07-22 16:34:40 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Audio Recordings&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>From the musical Cabaret.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, July 22, 2012&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Maybe This Time</richText>
+  </textBox>
+</content>
