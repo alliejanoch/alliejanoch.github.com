@@ -20,12 +20,12 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_External_410_209 {
-    position: relative;
-}
 .style_SkipStroke_4 {
     background: transparent;
     opacity: 1.00;
+}
+.style_External_410_45 {
+    position: relative;
 }
 .Body {
     color: rgb(255, 255, 255);
@@ -121,13 +121,13 @@
 .Normal_External_630_50 {
     position: relative;
 }
-.Normal_External_410_209 {
-    position: relative;
-}
 .Normal_External_410_32 {
     position: relative;
 }
 .Normal_External_410_24 {
+    position: relative;
+}
+.Normal_External_410_45 {
     position: relative;
 }
 .Previous {

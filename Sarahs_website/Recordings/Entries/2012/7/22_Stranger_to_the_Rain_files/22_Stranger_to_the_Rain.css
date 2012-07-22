@@ -1,6 +1,9 @@
 .style {
     padding: 4px;
 }
+.style_External_410_39 {
+    position: relative;
+}
 .style_SkipStroke_2 {
     background: transparent;
     opacity: 1.00;
@@ -19,9 +22,6 @@
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
-}
-.style_External_410_209 {
-    position: relative;
 }
 .style_SkipStroke_4 {
     background: transparent;
@@ -121,10 +121,10 @@
 .Normal_External_630_50 {
     position: relative;
 }
-.Normal_External_410_209 {
+.Normal_External_410_32 {
     position: relative;
 }
-.Normal_External_410_32 {
+.Normal_External_410_39 {
     position: relative;
 }
 .Normal_External_410_24 {
