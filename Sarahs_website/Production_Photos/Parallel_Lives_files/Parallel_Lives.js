@@ -1,4 +1,4 @@
-// Created by iWeb 3.0.3 local-build-20120623
+// Created by iWeb 3.0.3 local-build-20120722
 
 function createMediaStream_id2()
 {return IWCreatePhotocast("file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Production_Photos/Parallel_Lives_files/rss.xml",false);}
@@ -23,7 +23,7 @@ function onPageLoad()
 IWRegisterNamedImage('movie overlay','Media/Photo-Overlay-Movie.png')
 loadMozillaCSS('Parallel_Lives_files/Parallel_LivesMoz.css')
 adjustLineHeightIfTooBig('id1');adjustFontSizeIfTooBig('id1');NotificationCenter.addObserver(null,relayoutMediaGrid_id2,'RangeChanged','id2')
-Widget.onload();fixAllIEPNGs('Media/transparent.gif');initializeMediaStream_id2()
+Widget.onload();fixupAllIEPNGBGs();fixAllIEPNGs('Media/transparent.gif');initializeMediaStream_id2()
 performPostEffectsFixups()}
 function onPageUnload()
 {Widget.onunload();}
