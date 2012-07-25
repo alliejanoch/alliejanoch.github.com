@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Live Recordings</title>
+    <link>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Live_Recordings/Live_Recordings.html</link>
+    <description>Live audio recordings by Sarah Hoch. Video coming soon!</description>
+    <generator>iWeb 3.0.3</generator>
+    <image>
+      <url>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Live_Recordings/Live_Recordings_files/present%20laughter%20publicity.jpg</url>
+      <title>Live Recordings</title>
+      <link>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Live_Recordings/Live_Recordings.html</link>
+    </image>
+    <ttl>60</ttl>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:subtitle>Live audio recordings by Sarah Hoch. Video coming soon!</itunes:subtitle>
+    <itunes:summary>Live audio recordings by Sarah Hoch. Video coming soon!</itunes:summary>
+    <itunes:image href="file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Live_Recordings/Live_Recordings_files/present%20laughter%20publicity.jpg"/>
+    <language>en</language>
+    <item>
+      <title>Dyin' Ain't So Bad</title>
+      <link>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Live_Recordings/Entries/2012/7/23_Dyin_Aint_So_Bad.html</link>
+      <guid isPermaLink="false">82c17928-7c44-4e42-947a-b62c19865d32</guid>
+      <pubDate>Mon, 23 Jul 2012 20:44:47 -0700</pubDate>
+      <description>&lt;a href=&quot;file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Media/Dyin%27%20Ain%27t%20So%20Bad.mp3&quot;&gt;&lt;img src=&quot;file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Live_Recordings/Media/Bonnie%26Clyde_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:157px; height:122px;&quot;/&gt;&lt;/a&gt;From the musical Bonnie &amp;amp; Clyde, with Renee Kemper as accompanist and Zachachy Badreddine as live sound engineer. </description>
+      <enclosure url="file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Media/Dyin%27%20Ain%27t%20So%20Bad.mp3" length="3755761" type="audio/mpeg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>00:03:02</itunes:duration>
+      <itunes:subtitle>From the musical Bonnie &amp; Clyde, with Renee Kemper as accompanist and Zachachy Badreddine as live sound engineer. </itunes:subtitle>
+      <itunes:summary>From the musical Bonnie &amp; Clyde, with Renee Kemper as accompanist and Zachachy Badreddine as live sound engineer. </itunes:summary>
+    </item>
+    <item>
+      <title>Maybe This Time</title>
+      <link>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Live_Recordings/Entries/2012/7/22_Maybe_This_Time.html</link>
+      <guid isPermaLink="false">0b4e3bc9-40b2-452c-b464-a36b0368c500</guid>
+      <pubDate>Sun, 22 Jul 2012 16:22:18 -0700</pubDate>
+      <description>&lt;a href=&quot;file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Media/Maybe%20This%20Time.mp3&quot;&gt;&lt;img src=&quot;file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Live_Recordings/Media/Cabaret_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:157px; height:119px;&quot;/&gt;&lt;/a&gt;From the musical Cabaret, with Renee Kemper as accompanist and Zachachy Badreddine as live sound engineer. </description>
+      <enclosure url="file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Media/Maybe%20This%20Time.mp3" length="4032988" type="audio/mpeg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>00:03:12</itunes:duration>
+      <itunes:subtitle>From the musical Cabaret, with Renee Kemper as accompanist and Zachachy Badreddine as live sound engineer. </itunes:subtitle>
+      <itunes:summary>From the musical Cabaret, with Renee Kemper as accompanist and Zachachy Badreddine as live sound engineer. </itunes:summary>
+    </item>
+    <item>
+      <title>Stranger to the Rain</title>
+      <link>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Live_Recordings/Entries/2012/7/22_Stranger_to_the_Rain.html</link>
+      <guid isPermaLink="false">da14f12f-41c6-414a-ade9-e556954756d3</guid>
+      <pubDate>Sun, 22 Jul 2012 16:20:01 -0700</pubDate>
+      <description>&lt;a href=&quot;file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Media/Stranger%20to%20the%20Rain.mp3&quot;&gt;&lt;img src=&quot;file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Live_Recordings/Media/Children%20of%20Eden.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:157px; height:156px;&quot;/&gt;&lt;/a&gt;From the musical Children of Eden, with Renee Kemper as accompanist and Zachachy Badreddine as live sound engineer. </description>
+      <enclosure url="file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Media/Stranger%20to%20the%20Rain.mp3" length="3655143" type="audio/mpeg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>00:02:54</itunes:duration>
+      <itunes:subtitle>From the musical Children of Eden, with Renee Kemper as accompanist and Zachachy Badreddine as live sound engineer. </itunes:subtitle>
+      <itunes:summary>From the musical Children of Eden, with Renee Kemper as accompanist and Zachachy Badreddine as live sound engineer. </itunes:summary>
+    </item>
+  </channel>
+</rss>

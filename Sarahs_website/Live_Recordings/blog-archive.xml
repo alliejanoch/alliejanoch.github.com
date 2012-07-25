@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Live Recordings</title>
+    <link>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Live_Recordings</link>
+    <description>Live audio recordings by Sarah Hoch. Video coming soon!</description>
+    <item>
+      <title>Dyin' Ain't So Bad</title>
+      <link>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Live_Recordings/Entries/2012/7/23_Dyin_Aint_So_Bad.html</link>
+      <guid isPermaLink="false">82c17928-7c44-4e42-947a-b62c19865d32</guid>
+      <pubDate>Mon, 23 Jul 2012 20:44:47 -0700</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Live_Recordings/Entries/2012/7/23_Dyin_Aint_So_Bad.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Maybe This Time</title>
+      <link>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Live_Recordings/Entries/2012/7/22_Maybe_This_Time.html</link>
+      <guid isPermaLink="false">0b4e3bc9-40b2-452c-b464-a36b0368c500</guid>
+      <pubDate>Sun, 22 Jul 2012 16:22:18 -0700</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Live_Recordings/Entries/2012/7/22_Maybe_This_Time.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Stranger to the Rain</title>
+      <link>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Live_Recordings/Entries/2012/7/22_Stranger_to_the_Rain.html</link>
+      <guid isPermaLink="false">da14f12f-41c6-414a-ade9-e556954756d3</guid>
+      <pubDate>Sun, 22 Jul 2012 16:20:01 -0700</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Live_Recordings/Entries/2012/7/22_Stranger_to_the_Rain.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Live_Recordings</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>
