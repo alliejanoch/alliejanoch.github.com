@@ -1,4 +1,4 @@
-// Created by iWeb 3.0.3 local-build-20120623
+// Created by iWeb 3.0.3 local-build-20120805
 
 function createMediaStream_id2()
 {return IWCreatePhotocast("file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Production_Photos/The_Club_files/rss.xml",false);}
@@ -23,7 +23,7 @@ function onPageLoad()
 IWRegisterNamedImage('movie overlay','Media/Photo-Overlay-Movie.png')
 loadMozillaCSS('The_Club_files/The_ClubMoz.css')
 adjustLineHeightIfTooBig('id1');adjustFontSizeIfTooBig('id1');NotificationCenter.addObserver(null,relayoutMediaGrid_id2,'RangeChanged','id2')
-Widget.onload();fixAllIEPNGs('Media/transparent.gif');initializeMediaStream_id2()
+adjustLineHeightIfTooBig('id3');adjustFontSizeIfTooBig('id3');Widget.onload();fixAllIEPNGs('Media/transparent.gif');initializeMediaStream_id2()
 performPostEffectsFixups()}
 function onPageUnload()
 {Widget.onunload();}
