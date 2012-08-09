@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <content collectionGUID="57ED99DB-85CC-42A4-BB00-AF66B0A540C3">
-  <lastEdited clientType="local-build-20120728" date="2012-07-28 20:55:51 -0700"/>
+  <lastEdited clientType="local-build-20120808" date="2012-08-08 22:52:56 -0700"/>
   <textBox id="generic-header-attribute" dynamic="no" visible="yes">
     <richText>&lt;b&gt;Live Recordings&lt;/b&gt;</richText>
   </textBox>
   <textBox id="generic-body-attributes" dynamic="no" visible="yes">
-    <richText>From the musical Bonnie &amp; Clyde, with Renee Kemper as accompanist and Zachachy Badreddine as live sound engineer. </richText>
+    <richText>From the musical Bonnie &amp; Clyde, with Renee Kemper as accompanist and Zachary Badreddine as live sound engineer. </richText>
   </textBox>
   <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
     <richText>&lt;b&gt;Monday, July 23, 2012&lt;/b&gt;</richText>
