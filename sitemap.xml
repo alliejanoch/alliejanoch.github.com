@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!--Created with iGooMap Trial Version (x), www.pointworks.de-->
+    <url>
+        <loc>http://sarahdhoch.com/</loc>
+        <lastmod>2012-09-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.1</priority>
+    </url>
+    <url>
+        <loc>http://sarahdhoch.com/Sarahs_website/Production_Photos.html</loc>
+        <lastmod>2012-09-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>http://sarahdhoch.com/Sarahs_website/Live_Recordings/Live_Recordings.html</loc>
+        <lastmod>2012-09-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>http://sarahdhoch.com/Sarahs_website/Education_and_Training.html</loc>
+        <lastmod>2012-09-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>http://sarahdhoch.com/Sarahs_website/Head_Shots.html</loc>
+        <lastmod>2012-09-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>http://sarahdhoch.com/Sarahs_website/Home.html</loc>
+        <lastmod>2012-09-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+</urlset>
