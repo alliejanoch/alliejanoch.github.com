@@ -119,6 +119,27 @@
     font-weight: 700;
     line-height: 20px;
 }
+.style_2 {
+    color: rgb(34, 34, 34);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 13px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    opacity: 1.00;
+}
+.style_3 {
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+}
+.style_External_653_173 {
+    position: relative;
+}
 .paragraph_style_5 {
     color: rgb(255, 255, 255);
     font-family: 'Arial-BoldMT', 'Arial', sans-serif;
@@ -140,9 +161,6 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
-}
-.style_External_653_173 {
-    position: relative;
 }
 .style_SkipStroke {
     background: transparent;
