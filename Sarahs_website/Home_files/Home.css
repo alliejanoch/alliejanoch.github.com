@@ -137,10 +137,48 @@
     font-weight: 400;
     line-height: 19px;
 }
+.paragraph_style_5 {
+    color: rgb(255, 255, 255);
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
 .style_External_653_173 {
     position: relative;
 }
-.paragraph_style_5 {
+.style_4 {
+    font-family: 'Arial-BoldItalicMT', 'Arial', sans-serif;
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 20px;
+}
+.style_5 {
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+.paragraph_style_6 {
     color: rgb(255, 255, 255);
     font-family: 'Arial-BoldMT', 'Arial', sans-serif;
     font-size: 21px;
@@ -307,7 +345,7 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_366_286 {
+.graphic_textbox_layout_style_default_External_392_332 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_228_48 {
