@@ -80,6 +80,10 @@ a:hover {
     color: rgb(221, 221, 221);
     text-decoration: underline;
 }
+#widget3 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
 #widget0 a {
     color: rgb(255, 255, 255);
     text-decoration: underline;
@@ -94,10 +98,6 @@ a:hover {
 }
 #id2 canvas {
     z-index: -1;
-}
-#widget3 a {
-    color: rgb(255, 255, 255);
-    text-decoration: underline;
 }
 #id2 div.caption {
     line-height: 16px;
