@@ -213,6 +213,10 @@ a:hover {
     color: rgb(255, 255, 255);
     text-decoration: underline;
 }
+#widget1 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
 #widget0 a:hover {
     color: rgb(221, 221, 221);
     text-decoration: underline;
@@ -220,10 +224,6 @@ a:hover {
 .bumper {
     font-size: 1px;
     line-height: 1px;
-}
-#widget1 a {
-    color: rgb(255, 255, 255);
-    text-decoration: underline;
 }
 #widget1 .Summary_Separator {
     color: rgb(255, 255, 255);

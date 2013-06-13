@@ -3,7 +3,17 @@
   <channel>
     <title>Live Recordings</title>
     <link>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Live_Recordings</link>
-    <description>Live audio recordings by Sarah Hoch. Video coming soon!</description>
+    <description>Live audio and video recordings by Sarah Hoch. </description>
+    <item>
+      <title>Ain&#x2019;t No Sunshine</title>
+      <link>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Live_Recordings/Entries/2013/6/13_Aint_No_Sunshine.html</link>
+      <guid isPermaLink="false">4c223138-a81a-48bf-b929-b782cb16795d</guid>
+      <pubDate>Thu, 13 Jun 2013 11:03:59 -0700</pubDate>
+      <description>By Bill Withers from his 1971 album Just As I Am, produced by Booker T. Jones.</description>
+      <iweb:image href="Media/2013-04-21%2007.04.12.jpg"></iweb:image>
+      <iweb:badge type="movie"></iweb:badge>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Live_Recordings/Entries/2013/6/13_Aint_No_Sunshine.html#comment_layer"></iweb:comment>
+    </item>
     <item>
       <title>Dyin' Ain't So Bad</title>
       <link>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Live_Recordings/Entries/2012/7/23_Dyin_Aint_So_Bad.html</link>
@@ -34,7 +44,7 @@
       <iweb:badge type="audio"></iweb:badge>
       <iweb:comment enabled="0" count="0" link="file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Live_Recordings/Entries/2012/7/22_Stranger_to_the_Rain.html#comment_layer"></iweb:comment>
     </item>
-    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
     <iweb:baseURL>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Live_Recordings</iweb:baseURL>
     <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
   </channel>

@@ -3,8 +3,8 @@
   <channel>
     <title>Live Recordings</title>
     <link>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Live_Recordings/Live_Recordings.html</link>
-    <description>Live audio recordings by Sarah Hoch. Video coming soon!</description>
-    <generator>iWeb 3.0.3</generator>
+    <description>Live audio and video recordings by Sarah Hoch. </description>
+    <generator>iWeb 3.0.4</generator>
     <image>
       <url>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Live_Recordings/Live_Recordings_files/present%20laughter%20publicity.jpg</url>
       <title>Live Recordings</title>
@@ -12,10 +12,22 @@
     </image>
     <ttl>60</ttl>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:subtitle>Live audio recordings by Sarah Hoch. Video coming soon!</itunes:subtitle>
-    <itunes:summary>Live audio recordings by Sarah Hoch. Video coming soon!</itunes:summary>
+    <itunes:subtitle>Live audio and video recordings by Sarah Hoch. </itunes:subtitle>
+    <itunes:summary>Live audio and video recordings by Sarah Hoch. </itunes:summary>
     <itunes:image href="file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Live_Recordings/Live_Recordings_files/present%20laughter%20publicity.jpg"/>
     <language>en</language>
+    <item>
+      <title>Ain’t No Sunshine</title>
+      <link>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Live_Recordings/Entries/2013/6/13_Aint_No_Sunshine.html</link>
+      <guid isPermaLink="false">4c223138-a81a-48bf-b929-b782cb16795d</guid>
+      <pubDate>Thu, 13 Jun 2013 11:03:59 -0700</pubDate>
+      <description>&lt;a href=&quot;file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Media/2013-04-21%2007.04.12.mov&quot;&gt;&lt;img src=&quot;file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Live_Recordings/Media/2013-04-21%2007.04.12_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:157px; height:118px;&quot;/&gt;&lt;/a&gt;By Bill Withers from his 1971 album Just As I Am, produced by Booker T. Jones.</description>
+      <enclosure url="file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Media/2013-04-21%2007.04.12.mov" length="45356184" type="video/quicktime"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>00:01:34</itunes:duration>
+      <itunes:subtitle>By Bill Withers from his 1971 album Just As I Am, produced by Booker T. Jones.</itunes:subtitle>
+      <itunes:summary>By Bill Withers from his 1971 album Just As I Am, produced by Booker T. Jones.</itunes:summary>
+    </item>
     <item>
       <title>Dyin' Ain't So Bad</title>
       <link>file://localhost/Users/allie/Misc/SarahWebsite/alliejanoch.github.com/Sarahs_website/Live_Recordings/Entries/2012/7/23_Dyin_Aint_So_Bad.html</link>
