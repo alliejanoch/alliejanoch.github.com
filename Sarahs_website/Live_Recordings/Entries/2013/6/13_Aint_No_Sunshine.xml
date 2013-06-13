@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <content collectionGUID="57ED99DB-85CC-42A4-BB00-AF66B0A540C3">
-  <lastEdited clientType="local-build-20130613" date="2013-06-13 18:47:44 +0000"/>
+  <lastEdited clientType="local-build-20130613" date="2013-06-13 18:49:59 +0000"/>
   <textBox id="generic-header-attribute" dynamic="no" visible="yes">
     <richText>&lt;b&gt;My Podcast&lt;/b&gt;</richText>
   </textBox>
   <textBox id="generic-body-attributes" dynamic="no" visible="yes">
-    <richText>By Bill Withers from his 1971 album &lt;i&gt;Just As I Am&lt;/i&gt;, produced by Booker T. Jones. &#xD;&#xD;&lt;b&gt;Having problems loading? &#xD;&lt;/b&gt;Be patient, the recording will show up with a play button when it is fully downloaded. If you have a Mac, try Safari. </richText>
+    <richText>By Bill Withers from his 1971 album &lt;i&gt;Just As I Am&lt;/i&gt;, produced by Booker T. Jones. &#xD;&#xD;&lt;i&gt;Having problems loading? &#xD;&lt;/i&gt;Be patient, the recording will show up with a play button when it is fully downloaded. If you have a Mac, try Safari. </richText>
   </textBox>
   <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
     <richText>&lt;b&gt;Thursday, June 13, 2013&lt;/b&gt;</richText>
