@@ -1,4 +1,4 @@
-// Created by iWeb 3.0.3 local-build-20120808
+// Created by iWeb 3.0.4 local-build-20130613
 
 function writeMovie1()
 {detectBrowser();if(windowsInternetExplorer)
@@ -11,6 +11,6 @@ setTransparentGifURL('../../../../Media/transparent.gif');function hostedOnDM()
 {return false;}
 function onPageLoad()
 {dynamicallyPopulate();loadMozillaCSS('22_Stranger_to_the_Rain_files/22_Stranger_to_the_RainMoz.css')
-adjustLineHeightIfTooBig('id1');adjustFontSizeIfTooBig('id1');adjustLineHeightIfTooBig('id2');adjustFontSizeIfTooBig('id2');adjustLineHeightIfTooBig('id4');adjustFontSizeIfTooBig('id4');adjustLineHeightIfTooBig('id5');adjustFontSizeIfTooBig('id5');adjustLineHeightIfTooBig('id6');adjustFontSizeIfTooBig('id6');Widget.onload();fixAllIEPNGs('../../../../Media/transparent.gif');BlogFixupPreviousNext();performPostEffectsFixups()}
+adjustLineHeightIfTooBig('id1');adjustFontSizeIfTooBig('id1');adjustLineHeightIfTooBig('id2');adjustFontSizeIfTooBig('id2');adjustLineHeightIfTooBig('id4');adjustFontSizeIfTooBig('id4');adjustLineHeightIfTooBig('id5');adjustFontSizeIfTooBig('id5');adjustLineHeightIfTooBig('id6');adjustFontSizeIfTooBig('id6');Widget.onload();fixupAllIEPNGBGs();fixAllIEPNGs('../../../../Media/transparent.gif');BlogFixupPreviousNext();performPostEffectsFixups()}
 function onPageUnload()
 {Widget.onunload();}

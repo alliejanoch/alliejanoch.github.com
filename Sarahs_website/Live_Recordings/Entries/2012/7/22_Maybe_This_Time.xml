@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <content collectionGUID="57ED99DB-85CC-42A4-BB00-AF66B0A540C3">
-  <lastEdited clientType="local-build-20120808" date="2012-08-08 22:52:55 -0700"/>
+  <lastEdited clientType="local-build-20130613" date="2013-06-13 18:47:43 +0000"/>
   <textBox id="generic-header-attribute" dynamic="no" visible="yes">
     <richText>&lt;b&gt;Live Recordings&lt;/b&gt;</richText>
   </textBox>
   <textBox id="generic-body-attributes" dynamic="no" visible="yes">
-    <richText>From the musical Cabaret, with Renee Kemper as accompanist and Zachary Badreddine as live sound engineer. </richText>
+    <richText>From the musical Cabaret, with Renee Kemper as accompanist and Zachary Badreddine as live sound engineer. &#xD;&#xD;&lt;b&gt;Having problems loading? &#xD;&lt;/b&gt;Be patient, the recording will show up with a play button when it is fully downloaded. If you have a Mac, try Safari. </richText>
   </textBox>
   <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
     <richText>&lt;b&gt;Sunday, July 22, 2012&lt;/b&gt;</richText>
