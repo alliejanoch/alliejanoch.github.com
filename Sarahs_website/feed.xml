@@ -62,4 +62,13 @@
   <updated>2005-09-20T18:08:38-07:00</updated>
   <content>Live Recordings</content>
  </entry>
+ <entry>
+  <id>urn:iweb:RESUME</id>
+  <title>Resume</title>
+  <title xmlns="urn:iweb:">Resume</title>
+  <in-navbar xmlns="urn:iweb:">RESUME</in-navbar>
+  <link rel="alternate" href="resume.pdf"/>
+  <updated>2005-09-20T18:08:38-07:00</updated>
+  <content>RESUME</content>
+ </entry>
 </feed>
