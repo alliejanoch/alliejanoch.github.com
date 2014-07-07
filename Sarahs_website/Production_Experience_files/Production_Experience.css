@@ -1,5 +1,8 @@
 .table_row_style{
-    font-size: 12px;
+    font-size: 11px;
+}
+.table_row_style a {
+    color: white;
 }
 .style {
     padding: 4px;
@@ -71,20 +74,20 @@
     font-size: 1px;
     line-height: 1px;
 }
-body { 
+body {
     -webkit-text-size-adjust: none;
 }
-div { 
-    overflow: visible; 
+div {
+    overflow: visible;
 }
-img { 
-    border: none; 
+img {
+    border: none;
 }
-.InlineBlock { 
-    display: inline; 
+.InlineBlock {
+    display: inline;
 }
-.InlineBlock { 
-    display: inline-block; 
+.InlineBlock {
+    display: inline-block;
 }
 .inline-block {
     display: inline-block;
