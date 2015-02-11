@@ -18,6 +18,15 @@
   <content>Home</content>
  </entry>
  <entry>
+  <id>urn:iweb:ABOUTME</id>
+  <title>About Me</title>
+  <title xmlns="urn:iweb:">About Me</title>
+  <in-navbar xmlns="urn:iweb:">ABOUTME</in-navbar>
+  <link rel="alternate" href="About.html"/>
+  <updated>2005-09-20T18:08:38-07:00</updated>
+  <content>ABOUTME</content>
+ </entry>
+ <entry>
   <id>urn:iweb:BE1A12AE-E41C-43A1-BA90-58142B3A665A</id>
   <title>Education and Training</title>
   <title xmlns="urn:iweb:">Education and Training</title>
